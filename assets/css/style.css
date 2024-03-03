@@ -1,0 +1,32 @@
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px auto;
+    padding: 30px;
+    text-align: center;
+    border-bottom: 2px solid #eee;
+}
+
+img {
+    width: 200px;
+}
+
+p {
+    width: 900px;
+    margin: 30px auto;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.btn {
+    font-size: 10px;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #25D366;
+    border-radius: 25px;
+}
